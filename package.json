@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "jspm-dev-server"
+  },
+  "dependencies": {
+    "plugin-babel": "github:systemjs/plugin-babel@master"
+  },
+  "devDependencies": {
+    "jspm-dev-server": "^0.1.0"
+  },
+  "jspm": {
+    "name": "app"
+  }
+}
