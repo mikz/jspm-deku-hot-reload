@@ -31,6 +31,7 @@ SystemJS.config({
     "path": "github:jspm/nodelibs-path@0.2.0-alpha",
     "plugin-babel": "github:systemjs/plugin-babel@master",
     "process": "github:jspm/nodelibs-process@0.2.0-alpha",
+    "redux": "npm:redux@3.0.5",
     "stream": "github:jspm/nodelibs-stream@0.2.0-alpha",
     "systemjs-hot-reloader": "github:capaj/systemjs-hot-reloader@0.5.5",
     "transform-react-jsx": "npm:babel-plugin-transform-react-jsx@6.4.0",

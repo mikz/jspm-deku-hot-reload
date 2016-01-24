@@ -10,6 +10,7 @@
     "dependencies": {
       "deku": "npm:deku@^2.0.0-rc15",
       "plugin-babel": "github:systemjs/plugin-babel@master",
+      "redux": "npm:redux@^3.0.5",
       "systemjs-hot-reloader": "github:capaj/systemjs-hot-reloader@0.5.5",
       "transform-react-jsx": "npm:babel-plugin-transform-react-jsx@^6.4.0"
     },
